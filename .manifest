@@ -1,0 +1,9 @@
+{
+  "revision": "v1.2.3",
+  "roots": ["policies", "data"],
+  "wasm": [],
+  "metadata": {
+    "created_at": "2026-01-28T10:00:00Z",
+    "created_by": "ci-pipeline"
+  }
+}
